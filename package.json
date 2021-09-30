@@ -1,25 +1,23 @@
 {
-  "name": "puppeteer-starter-code",
+  "name": "onepice-craw-tool",
   "version": "1.0.0",
-  "description": "starter code for any puppeteer project",
-  "main": "index.js",
+  "description": "",
+  "main": "curl.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellosurbhi/puppeteer-starter-code.git"
+    "url": "git+https://github.com/tvthuy98/onepice-craw-tool.git"
   },
-  "author": "hellosurbhi",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hellosurbhi/puppeteer-starter-code/issues"
+    "url": "https://github.com/tvthuy98/onepice-craw-tool/issues"
   },
-  "homepage": "https://github.com/hellosurbhi/puppeteer-starter-code#readme",
+  "homepage": "https://github.com/tvthuy98/onepice-craw-tool#readme",
   "dependencies": {
-    "node-fetch": "^3.0.0",
-    "puppeteer": "^5.5.0",
-    "request": "^2.88.2"
+    "dom-parser": "^0.1.6"
   }
 }
